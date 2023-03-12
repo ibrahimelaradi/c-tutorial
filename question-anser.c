@@ -1,29 +1,3 @@
-#include <stdio.h>
-
-// position starts from 1
-// void fibunacci(int position, int *result, int *previous) {
-//   if (position < 1) {
-//     *result = -1;
-//     *previous = -1;
-//     return;
-//   }
-//   if (position == 1) {
-
-//     return;
-//   }
-//   if (position == 2) {
-//     return;
-//   }
-
-//   for (int i = 3; i <= position; i++) {
-//     int next = prev + current;
-//     prev = current;
-//     current = next;
-//   }
-
-//   return;
-// }
-
 double salary(int d, int n) {
   double a, b;
 
